@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw18", "hw18\hw18.csproj", "{168C5597-0A8A-46F7-89C2-825F54211F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkenList", "LinkenList\LinkenList.csproj", "{B714D9AC-26FC-4CF7-A9C9-2FBFFFC03C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{04A242F0-C07C-441D-B7EB-64BCC581984D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{168C5597-0A8A-46F7-89C2-825F54211F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168C5597-0A8A-46F7-89C2-825F54211F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168C5597-0A8A-46F7-89C2-825F54211F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168C5597-0A8A-46F7-89C2-825F54211F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B714D9AC-26FC-4CF7-A9C9-2FBFFFC03C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B714D9AC-26FC-4CF7-A9C9-2FBFFFC03C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B714D9AC-26FC-4CF7-A9C9-2FBFFFC03C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B714D9AC-26FC-4CF7-A9C9-2FBFFFC03C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A242F0-C07C-441D-B7EB-64BCC581984D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A242F0-C07C-441D-B7EB-64BCC581984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A242F0-C07C-441D-B7EB-64BCC581984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A242F0-C07C-441D-B7EB-64BCC581984D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D226177-66F9-49BB-BB6E-61720BBAAC52}
+	EndGlobalSection
+EndGlobal
